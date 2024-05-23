@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+notes/
+input_data/
+output_files/
+**/*.-todo.md
